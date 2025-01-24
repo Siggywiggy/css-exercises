@@ -1,0 +1,25 @@
+.pinktext  {
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.largetext {
+    font-size: 24px;
+
+}
+
+#blue-title {
+    background-color: white;
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#green-title {
+    background-color:hsl(84, 100%, 59%);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
