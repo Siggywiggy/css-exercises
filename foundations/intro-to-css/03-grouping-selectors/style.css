@@ -1,0 +1,15 @@
+.left-elem {
+    color: white;
+    background-color: black;
+}
+
+.right-elem {
+    background-color: yellow;
+    border-color: black;
+}
+
+.left-elem,
+.right-elem {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
